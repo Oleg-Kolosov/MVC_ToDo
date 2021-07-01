@@ -2,7 +2,7 @@
 
 ### Simple todo app via MVC & Bootstrap
 
-[watch demo]()
+[watch demo](https://oleg-kolosov.github.io/MVC_ToDo/)
 
 ### Purpose
 
